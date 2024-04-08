@@ -77,7 +77,10 @@ body {
     padding: 2rem;
 }
 .title-proyectos{
-    color: rgb(148, 19, 133);
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    text-shadow: 4px 2px 4px rgba(41, 1, 78, 0.83);
 }
 
 

@@ -38,19 +38,19 @@ font-size: 1.8em;
 
 }
 .btn-portafolio {
-    background-color: #680993;
+    background-color: #8d10c7;
     &:hover{
-        background-color: rgb(62, 9, 76);
+        background-color: rgb(127, 61, 145);
         color: white;
         font-weight: bold;
     }
 }
 .accordion{
     --bs-accordion-active-color: rgba(143,62,218,0.83);
-    --bs-accordion-active-bg: #d99a71ba;
+    --bs-accordion-active-bg: #bbb8c9ba;
 }
 .accordion-button{
-    background-color: #a218f952;
+    background-color: #a385f5de;
 }
 .list-group-item{
     background-color: #e3bdfae3;
